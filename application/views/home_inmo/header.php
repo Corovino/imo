@@ -41,7 +41,7 @@
                                 <a href="<?php echo site_url('auth/login'); ?>">Loguin</a>
                             </li>
                             <li>
-                                <a href="">Registro</a>
+                                <a href="<?=  base_url();?>register">Registro</a>
                             </li>
                            
                         </ul>

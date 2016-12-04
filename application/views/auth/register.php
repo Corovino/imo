@@ -1,3 +1,5 @@
+<?php  $this->load->view( 'home_inmo/head' );   ?>
+
 <div class="register-box">
   <div class="register-logo">
     <a href="../../index2.html"><b>Admin</b>LTE</a>
@@ -51,3 +53,6 @@
   </div>
   <!-- /.form-box -->
 </div>
+
+
+<?php  $this->load->view( 'home_inmo/footer' ); ?>
